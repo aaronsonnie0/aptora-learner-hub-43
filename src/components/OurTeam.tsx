@@ -1,3 +1,4 @@
+
 import React from "react";
 import { TeamMember } from "./TeamMember";
 
@@ -19,10 +20,10 @@ export const OurTeam = () => {
       email: "aaron@aptora.com"
     },
     {
-      name: "Karivardhan",
+      name: "Kari Vardhan",
       role: "Co-Founder & Tester",
       bio: "Ensures the highest quality user experience through rigorous testing methodologies and quality assurance practices.",
-      photoUrl: kariPhoto,
+      photoUrl: "/lovable-uploads/b94a9ece-7e3f-42eb-bc23-a5eb21a13b71.png",
       linkedin: "https://linkedin.com/in/karivardhan",
       github: "https://github.com/karivardhan",
       email: "kari@aptora.com"
@@ -31,7 +32,7 @@ export const OurTeam = () => {
       name: "Sona Daison",
       role: "Co-Founder & Frontend Developer",
       bio: "Creates beautiful, intuitive interfaces that make learning engaging and accessible for all users.",
-      photoUrl: sonaPhoto,
+      photoUrl: "/lovable-uploads/0486d9ae-e6fa-4ba8-89e7-2a8e9e37b657.png",
       linkedin: "https://linkedin.com/in/sonadaison",
       github: "https://github.com/sonadaison",
       email: "sona@aptora.com"
